@@ -1,0 +1,5 @@
+package com.stream.kafka;
+
+public class WordCountDemo {
+
+}

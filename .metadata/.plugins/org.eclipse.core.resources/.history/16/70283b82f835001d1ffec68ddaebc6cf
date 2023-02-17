@@ -1,0 +1,5 @@
+package com.consumer.service;
+
+public class UserConsumerService {
+
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.annotation.KafkaListener"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.consumer.OrderConsumer"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.KafkaConsumer"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.producer.KafkaProducer"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.streams.StreamsConfig"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.streams.StreamsBuilder"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.streams.KafkaStreams"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.streams.KeyValue"/>
+</qualifiedTypeNameHistroy>

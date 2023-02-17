@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;consumer&apos; in &apos;com.consumer.OrderProducer.main(...)&apos; to &apos;producer&apos;&#x0D;&#x0A;- Original project: &apos;ordre-consumer&apos;&#x0D;&#x0A;- Original element: &apos;com.consumer.OrderProducer.main(String[]).consumer&apos;&#x0D;&#x0A;- Renamed element: &apos;consumer&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;consumer&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.consumer{OrderProducer.java[OrderProducer~main~\[QString;@consumer!730!795!761!768!QKafkaProducer\&lt;QString;QInteger;&gt;;!0!false" name="producer" references="true" stamp="1663440561822" version="1.0"/>
+</session>
